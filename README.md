@@ -1,5 +1,6 @@
 # Mail-Sorter
 An experimental mail sorting game built in p5.js
+Use the Mouse to drag mailblocks to their appropriate destination!
 
 # Images
 
